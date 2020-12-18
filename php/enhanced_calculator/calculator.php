@@ -32,7 +32,7 @@
 
         <button class="favorite styled"
                 type="submit">
-            Calculer
+            Envoyer
         </button>
 
     </form>
